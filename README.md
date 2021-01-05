@@ -65,6 +65,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ## Podcasts
 
+* https://www.phparch.com/podcast/ by [@shocm](https://twitter.com/shocm) & [@johncongdon](https://twitter.com/johncongdon)
 * https://voicesoftheelephpant.com/ by [@CalEvans](https://twitter.com/CalEvans)
 
 
