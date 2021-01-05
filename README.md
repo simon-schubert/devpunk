@@ -26,8 +26,9 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### F
-* https://freek.dev/ by [@freekmurze](https://twitter.com/freekmurze)
 * http://fabien.potencier.org/ by [@fabpot](https://twitter.com/fabpot)
+* https://blog.frankdejonge.nl/ by [@frankdejonge](https://twitter.com/frankdejonge)
+* https://freek.dev/ by [@freekmurze](https://twitter.com/freekmurze)
 
 
 ### L
