@@ -48,6 +48,10 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://mwop.net/blog by [@mwop](https://twitter.com/mwop)
 
 
+### N
+* http://nikic.github.io/ by [@nikita_ppv](https://twitter.com/nikita_ppv)
+
+
 ### R
 * https://robertbasic.com/blog/ by [@robertbasic](https://twitter.com/robertbasic)
 
@@ -61,6 +65,10 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### T
 * https://tomasvotruba.com/ by [@VotrubaT](https://twitter.com/VotrubaT)
+
+
+### W
+* https://blog.wyrihaximus.net/ by [@WyriHaximus](https://twitter.com/WyriHaximus)
 
 
 ## Podcasts
