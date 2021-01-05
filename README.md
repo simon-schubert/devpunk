@@ -28,6 +28,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### D
+* https://debest.fr/en by [@dennisdebest](https://twitter.com/dennisdebest)
 * https://driesvints.com/blog by [@driesvints](https://twitter.com/driesvints)
 
 
