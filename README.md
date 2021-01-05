@@ -47,3 +47,10 @@ Collection of non-platform endorsed resources with focus on PHP
 ## Podcasts
 
 * https://voicesoftheelephpant.com/ by [@CalEvans](https://twitter.com/CalEvans)
+
+
+## Vlogs
+
+* [Beachcasts Programming Videos](https://www.youtube.com/channel/UCsOSGYawy8MG9Mh8NKgRHZQ) by [@adamculp](https://twitter.com/adamculp)
+* [YT channel](https://www.youtube.com/channel/UCKdi49pmY7GkNujTSqRTGNA) by [@frankdejonge](https://twitter.com/frankdejonge)
+* [YT channel](https://www.youtube.com/channel/UCJk94lia4VROQWTI_iPpEXw) by [@matthieunapoli](https://twitter.com/matthieunapoli)
