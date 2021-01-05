@@ -19,6 +19,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### C
 * https://www.colinodell.com/blog by [@colinodell](https://twitter.com/colinodell)
 * https://blog.calevans.com/ by [@CalEvans](https://twitter.com/CalEvans)
+* https://christoph-rumpel.com/ by [@christophrumpel](https://twitter.com/christophrumpel)
 
 
 ### D
