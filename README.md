@@ -52,6 +52,10 @@ Collection of non-platform endorsed resources with focus on PHP
 * http://nikic.github.io/ by [@nikita_ppv](https://twitter.com/nikita_ppv)
 
 
+### P
+* https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
+
+
 ### R
 * https://robertbasic.com/blog/ by [@robertbasic](https://twitter.com/robertbasic)
 
