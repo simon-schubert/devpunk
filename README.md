@@ -55,6 +55,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### S
 * https://www.schabrechtsk.be/ by [@schabrechtsk](https://twitter.com/schabrechtsk)
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
+* https://suckup.de/ by [@suckup_de](https://twitter.com/suckup_de)
 * https://blog.syntaxseed.com/ by [@SyntaxSeed](https://twitter.com/SyntaxSeed)
 
 
