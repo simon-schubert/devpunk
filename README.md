@@ -44,6 +44,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### S
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
+* https://blog.syntaxseed.com/ by [@SyntaxSeed](https://twitter.com/SyntaxSeed)
 
 
 ## Podcasts
