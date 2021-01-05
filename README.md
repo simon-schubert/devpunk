@@ -16,6 +16,10 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://akrabat.com/ by [@akrabat](https://twitter.com/akrabat)
 
 
+### B
+* https://backendtea.com/post/ by [@BackEndTea](https://twitter.com/BackEndTea)
+
+
 ### C
 * https://www.colinodell.com/blog by [@colinodell](https://twitter.com/colinodell)
 * https://blog.calevans.com/ by [@CalEvans](https://twitter.com/CalEvans)
@@ -45,6 +49,10 @@ Collection of non-platform endorsed resources with focus on PHP
 ### S
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
 * https://blog.syntaxseed.com/ by [@SyntaxSeed](https://twitter.com/SyntaxSeed)
+
+
+### T
+* https://tomasvotruba.com/ by [@VotrubaT](https://twitter.com/VotrubaT)
 
 
 ## Podcasts
