@@ -73,9 +73,10 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ## Podcasts
 
-* https://www.phparch.com/podcast/ by [@shocm](https://twitter.com/shocm),[@johncongdon](https://twitter.com/johncongdon), & [@omerida](https://twitter.com/omerida)
+* https://noplanstomerge.com/ by [@calebporzio](https://twitter.com/calebporzio) & [@dcoulbourne](https://twitter.com/dcoulbourne)
+* https://www.phparch.com/podcast/ by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@omerida](https://twitter.com/omerida)
+* https://www.phpugly.com by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@RealRideout](https://twitter.com/RealRideout)
 * https://voicesoftheelephpant.com/ by [@CalEvans](https://twitter.com/CalEvans)
-* https://www.phpugly.com by [@shocm](https://twitter.com/shocm),[@johncongdon](https://twitter.com/johncongdon), & [@RealRideout](https://twitter.com/RealRideout)
 
 
 ## Vlogs
