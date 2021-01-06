@@ -13,6 +13,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ## Blogs
 
 ### A
+* https://afilina.com/blog by [@afilina](https://twitter.com/afilina)
 * https://akrabat.com/ by [@akrabat](https://twitter.com/akrabat)
 
 
