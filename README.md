@@ -15,6 +15,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### A
 * https://afilina.com/blog by [@afilina](https://twitter.com/afilina)
 * https://akrabat.com/ by [@akrabat](https://twitter.com/akrabat)
+* http://www.alittleofboth.com/ by [@e3betht](https://twitter.com/e3betht)
 
 
 ### B
@@ -30,6 +31,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### D
 * https://debest.fr/en by [@dennisdebest](https://twitter.com/dennisdebest)
+* https://developerka.org/ [@DjevaLoperka](https://twitter.com/DjevaLoperka)
 * https://driesvints.com/blog by [@driesvints](https://twitter.com/driesvints)
 
 
@@ -39,7 +41,16 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://freek.dev/ by [@freekmurze](https://twitter.com/freekmurze)
 
 
+### J
+* https://jmauerhan.wordpress.com/ [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
+
+
+### K
+* https://blog.krakjoe.ninja/ by [@krakjoe](https://twitter.com/krakjoe)
+
+
 ### L
+* https://liamhammett.com/blog by [@LiamHammett](https://twitter.com/LiamHammett)
 * https://localheinz.com/blog by [@localheinz](https://twitter.com/localheinz)
 
 
@@ -51,6 +62,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### N
 * http://nikic.github.io/ by [@nikita_ppv](https://twitter.com/nikita_ppv)
+* https://www.nikolaposa.in.rs/blog/ by [@nikolaposa](https://twitter.com/nikolaposa)
 
 
 ### P
@@ -74,6 +86,10 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### W
 * https://blog.wyrihaximus.net/ by [@WyriHaximus](https://twitter.com/WyriHaximus)
+
+
+### Z
+* https://www.zuzana-k.com/articles/ by [@zuzana_kunckova](https://twitter.com/zuzana_kunckova)
 
 
 ## Podcasts
