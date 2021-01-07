@@ -31,7 +31,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### D
 * https://debest.fr/en by [@dennisdebest](https://twitter.com/dennisdebest)
-* https://developerka.org/ [@DjevaLoperka](https://twitter.com/DjevaLoperka)
+* https://developerka.org/ by [@DjevaLoperka](https://twitter.com/DjevaLoperka)
 * https://driesvints.com/blog by [@driesvints](https://twitter.com/driesvints)
 
 
@@ -42,7 +42,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### J
-* https://jmauerhan.wordpress.com/ [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
+* https://jmauerhan.wordpress.com/ by [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
 
 
 ### K
