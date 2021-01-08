@@ -46,6 +46,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### K
+* https://karoldabrowski.com/ by [@kdabrowskidev](https://twitter.com/kdabrowskidev)
 * https://blog.krakjoe.ninja/ by [@krakjoe](https://twitter.com/krakjoe)
 
 
