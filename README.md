@@ -41,7 +41,12 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://freek.dev/ by [@freekmurze](https://twitter.com/freekmurze)
 
 
+### H
+* https://developer.happyr.com/ by [@TobiasNyholm](https://twitter.com/TobiasNyholm) & [happyr](https://github.com/happyr)
+
+
 ### J
+* https://jessarcher.com/blog/ by [@jessarchercodes](https://twitter.com/jessarchercodes)
 * https://jmauerhan.wordpress.com/ by [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
 
 
