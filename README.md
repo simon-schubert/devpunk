@@ -72,7 +72,6 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### P
-* https://phpinternals.news/ by [@derickr](https://twitter.com/derickr)
 * https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
 
 
@@ -103,6 +102,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 * https://noplanstomerge.com/ by [@calebporzio](https://twitter.com/calebporzio) & [@dcoulbourne](https://twitter.com/dcoulbourne)
 * https://www.phparch.com/podcast/ by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@omerida](https://twitter.com/omerida)
+* https://phpinternals.news/ by [@derickr](https://twitter.com/derickr)
 * https://www.phpugly.com by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@RealRideout](https://twitter.com/RealRideout)
 * https://voicesoftheelephpant.com/ by [@CalEvans](https://twitter.com/CalEvans)
 
