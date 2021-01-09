@@ -72,6 +72,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### P
+* https://phpinternals.news/ by [@derickr](https://twitter.com/derickr)
 * https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
 
 
