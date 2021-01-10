@@ -112,4 +112,5 @@ Collection of non-platform endorsed resources with focus on PHP
 * [YT channel](https://www.youtube.com/c/AnnaFilina) by [@afilina](https://twitter.com/afilina)
 * [Beachcasts Programming Videos](https://www.youtube.com/c/Beachcasts) by [@adamculp](https://twitter.com/adamculp)
 * [YT channel](https://www.youtube.com/channel/UCKdi49pmY7GkNujTSqRTGNA) by [@frankdejonge](https://twitter.com/frankdejonge)
+* [Lionel The Tech Lead](https://www.youtube.com/channel/UCO6jIzhTzSbmaLNq62p-0MA)
 * [YT channel](https://www.youtube.com/channel/UCJk94lia4VROQWTI_iPpEXw) by [@matthieunapoli](https://twitter.com/matthieunapoli)
