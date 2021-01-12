@@ -81,6 +81,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### S
 * https://www.schabrechtsk.be/ by [@schabrechtsk](https://twitter.com/schabrechtsk)
+* https://stefanbauer.me/articles by [@stefanbauerme](https://twitter.com/stefanbauerme)
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
 * https://suckup.de/ by [@suckup_de](https://twitter.com/suckup_de)
 * https://blog.syntaxseed.com/ by [@SyntaxSeed](https://twitter.com/SyntaxSeed)
@@ -109,8 +110,9 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ## Vlogs
 
-* [YT channel](https://www.youtube.com/c/AnnaFilina) by [@afilina](https://twitter.com/afilina)
+* [Anna's YT channel](https://www.youtube.com/c/AnnaFilina) by [@afilina](https://twitter.com/afilina)
 * [Beachcasts Programming Videos](https://www.youtube.com/c/Beachcasts) by [@adamculp](https://twitter.com/adamculp)
-* [YT channel](https://www.youtube.com/channel/UCKdi49pmY7GkNujTSqRTGNA) by [@frankdejonge](https://twitter.com/frankdejonge)
+* [Frank's YT channel](https://www.youtube.com/channel/UCKdi49pmY7GkNujTSqRTGNA) by [@frankdejonge](https://twitter.com/frankdejonge)
 * [Lionel The Tech Lead](https://www.youtube.com/channel/UCO6jIzhTzSbmaLNq62p-0MA)
-* [YT channel](https://www.youtube.com/channel/UCJk94lia4VROQWTI_iPpEXw) by [@matthieunapoli](https://twitter.com/matthieunapoli)
+* [Matthieu's YT channel](https://www.youtube.com/channel/UCJk94lia4VROQWTI_iPpEXw) by [@matthieunapoli](https://twitter.com/matthieunapoli)
+* [Program With Gio](https://www.youtube.com/channel/UCNoeG15U4pLBrFVHTw3xByw) by [@GioDev8](https://twitter.com/GioDev8)
