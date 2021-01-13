@@ -115,5 +115,5 @@ Collection of non-platform endorsed resources with focus on PHP
 * [Frank's YT channel](https://www.youtube.com/channel/UCKdi49pmY7GkNujTSqRTGNA) by [@frankdejonge](https://twitter.com/frankdejonge)
 * [Lionel The Tech Lead](https://www.youtube.com/channel/UCO6jIzhTzSbmaLNq62p-0MA)
 * [Matthieu's YT channel](https://www.youtube.com/channel/UCJk94lia4VROQWTI_iPpEXw) by [@matthieunapoli](https://twitter.com/matthieunapoli)
-* [PHP Release Radar](https://www.youtube.com/channel/UCfGvhduz1pZjk-WcNjjXRWQ) by [dbrumann](https://twitter.com/dbrumann) & [@el_stoffel](https://twitter.com/el_stoffel)
+* [PHP Release Radar](https://www.youtube.com/channel/UCfGvhduz1pZjk-WcNjjXRWQ) by [@dbrumann](https://twitter.com/dbrumann) & [@el_stoffel](https://twitter.com/el_stoffel)
 * [Program With Gio](https://www.youtube.com/channel/UCNoeG15U4pLBrFVHTw3xByw) by [@GioDev8](https://twitter.com/GioDev8)
