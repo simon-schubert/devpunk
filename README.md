@@ -88,6 +88,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### T
+* https://thephp.website/en/ by [@nawarian](https://twitter.com/nawarian)
 * https://tomasvotruba.com/ by [@VotrubaT](https://twitter.com/VotrubaT)
 
 
