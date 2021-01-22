@@ -31,6 +31,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### D
 * https://debest.fr/en by [@dennisdebest](https://twitter.com/dennisdebest)
+* https://blog.deleu.dev/ by [@deleugyn](https://twitter.com/deleugyn)
 * https://developerka.org/ by [@DjevaLoperka](https://twitter.com/DjevaLoperka)
 * https://driesvints.com/blog by [@driesvints](https://twitter.com/driesvints)
 
