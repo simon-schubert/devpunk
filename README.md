@@ -49,6 +49,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### J
 * https://jessarcher.com/blog/ by [@jessarchercodes](https://twitter.com/jessarchercodes)
 * https://jmauerhan.wordpress.com/ by [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
+* https://www.juststeveking.uk/ by [@JustSteveKing](https://twitter.com/JustSteveKing)
 
 
 ### K
