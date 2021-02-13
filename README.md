@@ -40,6 +40,7 @@ Collection of non-platform endorsed resources with focus on PHP
 * http://fabien.potencier.org/ by [@fabpot](https://twitter.com/fabpot)
 * https://blog.frankdejonge.nl/ by [@frankdejonge](https://twitter.com/frankdejonge)
 * https://freek.dev/ by [@freekmurze](https://twitter.com/freekmurze)
+* https://funivan.com/ by [@funivan](https://twitter.com/funivan)
 
 
 ### H
@@ -49,6 +50,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### J
 * https://jessarcher.com/blog/ by [@jessarchercodes](https://twitter.com/jessarchercodes)
 * https://jmauerhan.wordpress.com/ by [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
+* https://johnbraun.blog/ by [@jhnbrn90](https://twitter.com/jhnbrn90)
 * https://www.juststeveking.uk/ by [@JustSteveKing](https://twitter.com/JustSteveKing)
 
 
@@ -65,6 +67,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### M
 * https://blog.magepsycho.com/ by [@rajkbnp](https://twitter.com/rajkbnp)
 * https://mnapoli.fr/ by [@matthieunapoli](https://twitter.com/matthieunapoli)
+* https://matthewtrask.net/blog/ by [@matthewtrask](https://twitter.com/matthewtrask)
 * https://matthiasnoback.nl/ by [@matthiasnoback](https://twitter.com/matthiasnoback)
 * https://mattstauffer.com/blog/ by [@stauffermatt](https://twitter.com/stauffermatt)
 * https://mwop.net/blog by [@mwop](https://twitter.com/mwop)
@@ -86,6 +89,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### S
 * https://www.schabrechtsk.be/ by [@schabrechtsk](https://twitter.com/schabrechtsk)
+* https://sorin.live by [@sdnunca](https://twitter.com/sdnunca)
 * https://stefanbauer.me/articles by [@stefanbauerme](https://twitter.com/stefanbauerme)
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
 * https://suckup.de/ by [@suckup_de](https://twitter.com/suckup_de)
