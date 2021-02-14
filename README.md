@@ -114,6 +114,7 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://noplanstomerge.com/ by [@calebporzio](https://twitter.com/calebporzio) & [@dcoulbourne](https://twitter.com/dcoulbourne)
 * https://www.phparch.com/podcast/ by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@omerida](https://twitter.com/omerida)
 * https://phpinternals.news/ by [@derickr](https://twitter.com/derickr)
+* https://phptownhall.com/ by [@benedmunds](https://twitter.com/benedmunds) & [@matthewtrask](https://twitter.com/matthewtrask)
 * https://www.phpugly.com by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@RealRideout](https://twitter.com/RealRideout)
 * https://voicesoftheelephpant.com/ by [@CalEvans](https://twitter.com/CalEvans)
 
