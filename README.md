@@ -68,6 +68,7 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://blog.magepsycho.com/ by [@rajkbnp](https://twitter.com/rajkbnp)
 * https://mnapoli.fr/ by [@matthieunapoli](https://twitter.com/matthieunapoli)
 * https://matthewtrask.net/blog/ by [@matthewtrask](https://twitter.com/matthewtrask)
+* https://matthewsetter.com/blog/ by [@settermjd](https://twitter.com/settermjd)
 * https://matthiasnoback.nl/ by [@matthiasnoback](https://twitter.com/matthiasnoback)
 * https://mattstauffer.com/blog/ by [@stauffermatt](https://twitter.com/stauffermatt)
 * https://mwop.net/blog by [@mwop](https://twitter.com/mwop)
