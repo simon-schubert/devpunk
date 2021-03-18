@@ -80,6 +80,10 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://www.nikolaposa.in.rs/blog/ by [@nikolaposa](https://twitter.com/nikolaposa)
 
 
+### O
+* https://ollieread.com/articles by [@ollieread](https://twitter.com/ollieread)
+
+
 ### P
 * https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
 
