@@ -109,6 +109,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### Z
+* https://zubairmohsin.dev/blog/ by [@Zubairmohsin33](https://twitter.com/Zubairmohsin33)
 * https://www.zuzana-k.com/articles/ by [@zuzana_kunckova](https://twitter.com/zuzana_kunckova)
 
 
