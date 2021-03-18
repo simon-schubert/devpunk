@@ -26,6 +26,7 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://blog.calevans.com/ by [@CalEvans](https://twitter.com/CalEvans)
 * https://christoph-rumpel.com/ by [@christophrumpel](https://twitter.com/christophrumpel)
 * https://clue.engineering/blog by [@another_clue](https://twitter.com/another_clue)
+* https://blog.codecourse.com/ by [@alexjgarrett](https://twitter.com/alexjgarrett)
 * https://www.colinodell.com/blog by [@colinodell](https://twitter.com/colinodell)
 
 
