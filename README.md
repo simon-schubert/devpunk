@@ -95,6 +95,7 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://stefanbauer.me/articles by [@stefanbauerme](https://twitter.com/stefanbauerme)
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
 * https://suckup.de/ by [@suckup_de](https://twitter.com/suckup_de)
+* https://svenluijten.com/ by [@svenluijten](https://twitter.com/svenluijten)
 * https://blog.syntaxseed.com/ by [@SyntaxSeed](https://twitter.com/SyntaxSeed)
 
 
