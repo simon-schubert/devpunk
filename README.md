@@ -86,6 +86,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### P
+* https://www.pascallandau.com/blog/ by [@PascalLandau](https://twitter.com/PascalLandau)
 * https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
 
 
