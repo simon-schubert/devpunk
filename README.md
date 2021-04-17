@@ -16,6 +16,8 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://afilina.com/blog by [@afilina](https://twitter.com/afilina)
 * https://akrabat.com/ by [@akrabat](https://twitter.com/akrabat)
 * http://www.alittleofboth.com/ by [@e3betht](https://twitter.com/e3betht)
+* https://arkadiuszkondas.com/ by [@ArkadiuszKondas](https://twitter.com/ArkadiuszKondas)
+* https://arueckauer.github.io/posts/ by [@arueckauer](https://twitter.com/arueckauer)
 
 
 ### B
@@ -24,6 +26,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### C
 * https://blog.calevans.com/ by [@CalEvans](https://twitter.com/CalEvans)
+* https://cam.bio/posts/ by [@camdotbio](https://twitter.com/camdotbio)
 * https://christoph-rumpel.com/ by [@christophrumpel](https://twitter.com/christophrumpel)
 * https://clue.engineering/blog by [@another_clue](https://twitter.com/another_clue)
 * https://blog.codecourse.com/ by [@alexjgarrett](https://twitter.com/alexjgarrett)
@@ -88,7 +91,9 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### P
+* https://pavlakis.dev/ by [@pavlakis](https://twitter.com/pavlakis)
 * https://www.pascallandau.com/blog/ by [@PascalLandau](https://twitter.com/PascalLandau)
+* https://philip-weinke.de/posts/ by [@_weph](https://twitter.com/_weph)
 * https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
 
 
@@ -100,6 +105,8 @@ Collection of non-platform endorsed resources with focus on PHP
 
 ### S
 * https://www.schabrechtsk.be/ by [@schabrechtsk](https://twitter.com/schabrechtsk)
+* https://sebastiandedeyne.com/ by [@sebdedeyne](https://twitter.com/sebdedeyne)
+* https://www.semisedlak.com/articles by [@semisedlak](https://twitter.com/semisedlak)
 * https://sorin.live by [@sdnunca](https://twitter.com/sdnunca)
 * https://stefanbauer.me/articles by [@stefanbauerme](https://twitter.com/stefanbauerme)
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
@@ -112,6 +119,10 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://thephp.website/en/ by [@nawarian](https://twitter.com/nawarian)
 * https://timacdonald.me/ by [@timacdonald87](https://twitter.com/timacdonald87)
 * https://tomasvotruba.com/ by [@VotrubaT](https://twitter.com/VotrubaT)
+
+
+### V
+* https://veewee.github.io/ by [@toonverwerft](https://twitter.com/toonverwerft)
 
 
 ### W
