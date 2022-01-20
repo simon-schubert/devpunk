@@ -55,6 +55,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### J
 * https://jessarcher.com/blog/ by [@jessarchercodes](https://twitter.com/jessarchercodes)
 * https://jmauerhan.wordpress.com/ by [@JessicaMauerhan](https://twitter.com/JessicaMauerhan)
+* https://joelclermont.com by [@jclermont](https://twitter.com/jclermont)
 * https://johnbraun.blog/ by [@jhnbrn90](https://twitter.com/jhnbrn90)
 * https://www.juststeveking.uk/ by [@JustSteveKing](https://twitter.com/JustSteveKing)
 
@@ -142,6 +143,7 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://phpinternals.news/ by [@derickr](https://twitter.com/derickr)
 * https://phptownhall.com/ by [@benedmunds](https://twitter.com/benedmunds) & [@matthewtrask](https://twitter.com/matthewtrask)
 * https://www.phpugly.com by [@shocm](https://twitter.com/shocm), [@johncongdon](https://twitter.com/johncongdon) & [@RealRideout](https://twitter.com/RealRideout)
+* https://show.nocompromises.io by [@aaronsaray](https://twitter.com/aaronsaray) & [@jclermont](https://twitter.com/jclermont)
 * https://voicesoftheelephpant.com/ by [@CalEvans](https://twitter.com/CalEvans)
 
 
