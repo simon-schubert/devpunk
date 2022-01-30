@@ -109,7 +109,6 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://www.schabrechtsk.be/ by [@schabrechtsk](https://twitter.com/schabrechtsk)
 * https://sebastiandedeyne.com/ by [@sebdedeyne](https://twitter.com/sebdedeyne)
 * https://www.semisedlak.com/articles by [@semisedlak](https://twitter.com/semisedlak)
-* https://sorin.live by [@sdnunca](https://twitter.com/sdnunca)
 * https://stefanbauer.me/articles by [@stefanbauerme](https://twitter.com/stefanbauerme)
 * https://stitcher.io/ by [@brendt_gd](https://twitter.com/brendt_gd)
 * https://suckup.de/ by [@suckup_de](https://twitter.com/suckup_de)
@@ -132,8 +131,7 @@ Collection of non-platform endorsed resources with focus on PHP
 
 
 ### Z
-* https://zubairmohsin.dev/blog/ by [@Zubairmohsin33](https://twitter.com/Zubairmohsin33)
-* https://www.zuzana-k.com/articles/ by [@zuzana_kunckova](https://twitter.com/zuzana_kunckova)
+* https://www.zuzana-k.com/ by [@zuzana_kunckova](https://twitter.com/zuzana_kunckova)
 
 
 ## Podcasts
