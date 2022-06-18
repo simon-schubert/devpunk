@@ -48,6 +48,10 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://funivan.com/ by [@funivan](https://twitter.com/funivan)
 
 
+### G
+* https://www.garfieldtech.com/blog/ by [@crell](https://twitter.com/crell)
+
+    
 ### H
 * https://developer.happyr.com/ by [@TobiasNyholm](https://twitter.com/TobiasNyholm) & [happyr](https://github.com/happyr)
 
