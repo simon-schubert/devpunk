@@ -106,6 +106,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### R
 * https://www.rias.be/blog by [@riasvdv](https://twitter.com/riasvdv)
 * https://robertbasic.com/blog/ by [@robertbasic](https://twitter.com/robertbasic)
+* https://rodolfoberrios.com by [@godlike](https://twitter.com/godlike)
 * https://ryangjchandler.co.uk/posts by [@ryangjchandler](https://twitter.com/ryangjchandler)
 
 
