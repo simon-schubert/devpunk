@@ -40,6 +40,8 @@ Collection of non-platform endorsed resources with focus on PHP
 * https://developerka.org/ by [@DjevaLoperka](https://twitter.com/DjevaLoperka)
 * https://driesvints.com/blog by [@driesvints](https://twitter.com/driesvints)
 
+### D
+* https://www.exakat.io/blog/ by [@exakat](https://twitter.com/exakat) and [Damien Seguy](https://twitter.com/faguo)
 
 ### F
 * http://fabien.potencier.org/ by [@fabpot](https://twitter.com/fabpot)
