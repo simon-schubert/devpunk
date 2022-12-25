@@ -101,7 +101,7 @@ Collection of non-platform endorsed resources with focus on PHP
 ### P
 * https://pavlakis.dev/ by [@pavlakis](https://twitter.com/pavlakis)
 * https://www.pascallandau.com/blog/ by [@PascalLandau](https://twitter.com/PascalLandau)
-* https://philip-weinke.de/posts/ by [@_weph](https://twitter.com/_weph)
+* https://philip-weinke.de/ by [@weph](https://phpc.social/@weph)
 * https://php.watch/articles by [@Ayeshlive](https://twitter.com/Ayeshlive)
 
 
